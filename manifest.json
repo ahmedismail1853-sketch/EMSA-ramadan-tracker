@@ -1,6 +1,6 @@
 {
-  "name": "متتبع رمضان",
-  "short_name": "رمضان",
+  "name": "RAMADAN TRACKER",
+  "short_name": "RAMADAN",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0b1220",
@@ -11,4 +11,5 @@
     { "src": "icons/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml" },
     { "src": "icons/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml" }
   ]
+
 }
